@@ -1,29 +1,35 @@
-Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://unsplash.com/photos/dLij9K4ObYY))My name is Derrick Sena Crowis
-===========================================================================================================================================
+### Hi there 👋, my name is Derrick Sena Crowis
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://unsplash.com/photos/dLij9K4ObYY)
 
-Developer( Beginner), Graphic Designer , Prepress Technician, Public Relations & Advertising
---------------------------------------------------------------------------------------------
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Experienced Graphic Designer with a demonstrated history of working in the graphic design industry. Skilled in Security Printing Designs, Branding and Prepress Rendering. I’m very passionate about what I do! Creativity has no limits at all. Always challenging myself to learn new skills in the design industry.
+Skills: PS, AI, AE, IND, 
 
-* 🌍  I'm based in Accra, Ghana, West Africa
-* ✉️  You can contact me at [derrickcrowis@gmail.com](mailto:derrickcrowis@gmail.com)
-* 🧠  I'm learning Software Engineering with ALX
-* 🤝  I'm open to collaborating on challenging interesting projects
-* ⚡  Open Minded
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-</p>
+- 🔭 I’m currently working on this page https://github.com/derrickcrowis 
+- 🌱 I’m currently learning Software Engineering 
+- 👯 I’m looking to collaborate on  I'm open to collaborating on challenging interesting projects 
+- 🤔 I’m looking for help with Software Engineering Fundamentals 
+- 💬 Ask me about ART 
+- 📫 How to reach me: derrickcrowis@gmail.com 
+- 😄 Pronouns: SENA 
+- ⚡ Fun fact: Open Minded 
 
 
-### Socials
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/derrickcrowis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/derrickcrowis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/decrowis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/crowisderrick)  
 
-<p align="left"> <a href="https://www.behance.com/senaticket9df2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/decrowis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/DeCrowis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/derrick-sena-crowis-011332aa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@derrickcrowis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CrowisDerrick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=derrickcrowis)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickcrowis)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=derrickcrowis&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=derrickcrowis)  
+
+![GitHub metrics](https://metrics.lecoq.io/derrickcrowis)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=derrickcrowis)  
+
+![Profile views](https://gpvc.arturio.dev/derrickcrowis)  
