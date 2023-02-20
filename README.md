@@ -5,7 +5,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: PS, AI, AE, IND, 
 
 - 🔭 I’m currently working on this page https://github.com/derrickcrowis 
-- 🌱 I’m currently learning Software Engineering 
+- 🌱 I’m currently learning Software Engineering at ALX
 - 👯 I’m looking to collaborate on  I'm open to collaborating on challenging interesting projects 
 - 🤔 I’m looking for help with Software Engineering Fundamentals 
 - 💬 Ask me about ART 
