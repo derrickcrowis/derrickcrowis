@@ -10,7 +10,7 @@ Skills: PS, AI, AE, IND,
 - 🤔 I’m looking for help with Software Engineering Fundamentals 
 - 💬 Ask me about ART 
 - 📫 How to reach me: derrickcrowis@gmail.com 
-- 😄 Pronouns: SENA 
+- 😄 Pronouns: CHROME 
 - ⚡ Fun fact: Open Minded 
 
 
