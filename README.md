@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Derrick Sena Crowis
 #### BEGINNER
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
+https://github.com/derrickcrowis/derrickcrowis/blob/main/gh-header-image-cropped.png
 Skills: PS, AI, AE, IND, 
 
 - 🔭 I’m currently working on this page https://github.com/derrickcrowis 
